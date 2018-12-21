@@ -27,7 +27,7 @@
 #include "mksound.h"
 #include "valloc.h"
 
-jooj
+// jooj
 
 /* Prototypes */
 
